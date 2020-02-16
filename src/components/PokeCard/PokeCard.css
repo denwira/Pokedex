@@ -1,0 +1,124 @@
+.poke-row {
+  width: 100%;
+  display:flex;
+  flex-wrap: wrap;
+}
+
+
+.PokeCard {
+  /* width: 33.333%; */
+  /* padding: 14px; */
+  transition: all ease 500ms;
+  box-sizing: border-box;
+}
+
+.PokeCard-Item {
+  height: 220px;
+  border-radius: 5%;
+  color: #fff;
+  background-color: #00a8cc;
+  box-shadow: 7px 10px 12px -5px rgba(0, 0, 0, 0.56);
+  text-decoration: none;
+  transition: all ease 500ms;
+}
+
+.PokeCard:hover {
+  transform: scale(1.10);
+  opacity: 0.7;
+  cursor: pointer;
+}
+
+.PokeCard-Title {
+  position: relative;
+  left: 12px;
+  top: 36px;
+  font-size: 26px;
+}
+
+.PokeCard img {
+  width: 153px;
+  position: relative;
+  bottom: 51px;
+}
+
+/* .PokeCard img:hover {
+  transform: scale(1.25)
+} */
+
+.PokeCard-Desc {
+  position: relative;
+  top: 10px;
+  left: 12px;
+  font-size: 21px;
+}
+
+.Fire {
+  background-color: #fb8d62;
+}
+
+.Water {
+  background-color: #3498db;
+}
+
+.Grass {
+  background-color: #27ae60
+}
+
+.Bug {
+  background-color: #c9753d
+}
+
+.Fairy {
+  background-color: #e84393
+}
+
+.Flying {
+  background-color: #a7e9af
+}
+
+.Electric {
+  background-color: #f39c12
+}
+
+.Card-Thumbnail img {
+  border-radius: 100%;
+  width: 50%;
+  background: #333;
+}
+
+.Card {
+  width: 33.333%;
+  padding: 19px;
+  box-sizing: border-box;
+}
+
+.Card-Item {
+  background: white;
+  box-shadow:  0px 10px 14px rgba(0, 0, 0, 0.25);
+  height: 64vh;
+  min-height: 300px;
+  max-height: 300px;
+}
+
+.Card-Body {
+  padding: 14px;
+  text-align: center;
+}
+
+.Card-Body span {
+  background: aquamarine;
+  padding: 5px 5px;
+  font-size: 12px;
+  border-radius: 3px;
+}
+
+.Card-Thumbnail {
+  position: relative;
+  text-align: center;
+  border-radius: 100%;
+  padding: 21px 18px;
+}
+
+.Card-Body h2 {
+  line-height: 0.3;
+}

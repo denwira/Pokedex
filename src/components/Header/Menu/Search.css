@@ -1,0 +1,36 @@
+/* input[type="text"] {
+  float: right;
+  margin-top: 30px;
+  margin-right: 19px;
+  border: none;
+  padding: 7px;
+  border-radius: 5px;
+} */
+
+.search-container {
+  float: right;
+  margin-top: 22px;
+}
+
+input[type=text] {
+  padding: 6px;
+  margin-top: 8px;
+  font-size: 17px;
+  border: none;
+}
+
+.search-container button {
+  float: right;
+  padding: 6px 10px;
+  margin-top: 8px;
+  margin-right: 16px;
+  background: #ddd;
+  font-size: 17px;
+  border: none;
+  cursor: pointer;
+}
+
+.search-container button:hover {
+  background: #ccc;
+}
+

@@ -1,0 +1,254 @@
+[
+   {
+      "id": "004",
+      "name": "Charmander",
+      "type": "Fire",
+      "desc": "Charmander is a bipedal, reptilian Pokémon with a primarily orange body and blue eyes. Its underside from the chest down and the soles of its feet are cream-colored. It has two small fangs visible in its upper jaw and two smaller fangs in its lower jaw. A fire burns at the tip of this Pokémon's slender tail and has blazed there since Charmander's birth. The flame can be used as an indication of Charmander's health and mood, burning brightly when the Pokémon is strong, weakly when it is exhausted, wavering when it is happy, and blazing when it is enraged. It is said that Charmander dies if its flame goes out. However, if the Pokémon is healthy, the flame will continue to burn even if it gets a bit wet and is said to steam in the rain.",
+      "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/004.png"
+   },
+   {
+      "id": "007",
+      "name": "Squirtle",
+      "type": "Water",
+      "desc": "Squirtle is a small Pokémon that resembles a light blue turtle. While it typically walks on its two short legs, it has been shown to run on all fours in Super Smash Bros. Brawl. It has large, purplish or reddish eyes and a slightly hooked upper lip. Each of its hands and feet have three pointed digits. The end of its long tail curls inward. Its body is encased by a tough shell that forms and hardens after birth. This shell is brown on the top, pale yellow on the bottom, and has a thick white ridge between the two halves.",
+      "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/007.png"
+   },
+   {
+      "id": "011",
+      "name": "Metapod",
+      "type": "Bug",
+      "desc": "Metapod is a Pokémon that resembles a green chrysalis. Its body is crescent-shaped with several segments making up the lower point. The front of its shell resembles a face with heavy-lidded eyes and a sharply pointed nose. The back of its shell consists of several geometrically shaped portions and projections",
+      "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/011.png"
+   },
+   {
+      "id": "012",
+      "name": "Butterfree",
+      "type": "Flying",
+      "desc": "Butterfree resembles a vaguely anthropomorphic butterfly with a purple body. Unlike true insects, it only has two body segments and four light blue legs. The upper pair of legs resembles small, three-fingered hands, while the lower pair resembles long, digit-less feet. Butterfree has two black antennae, a light blue snout with two fangs underneath, and large, red compound eyes. Its two pairs of wings are white with black venation. Two oval scales on a female Butterfree's lower wings are black, but they are white on a male.",
+      "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/012.png"
+   },
+   {
+      "id": "025",
+      "name": "Pikachu",
+      "type": "Electric",
+      "desc": "Ini Charmander",
+      "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/025.png"
+   },
+   {
+      "id": "039",
+      "name": "Jigglypuff",
+      "type": "Normal",
+      "desc": "Ini Charmander",
+      "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/039.png"
+   },
+   {
+      "id": "094",
+      "name": "Gengar",
+      "type": "Poison",
+      "desc": "Ini Charmander",
+      "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/094.png"
+   },
+   {
+      "id": "133",
+      "name": "Eevee",
+      "type": "Normal",
+      "desc": "Ini Charmander",
+      "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/133.png"
+   },
+   {
+      "id": "129",
+      "name": "Magikarp",
+      "type": "Water",
+      "desc": "Ini Charmander",
+      "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/129.png"
+   },
+   {
+      "id": "130",
+      "name": "Gyrarados",
+      "type": "Water",
+      "desc": "Ini Charmander",
+      "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/130.png"
+   },
+   {
+      "id": "155",
+      "name": "cyndaquil",
+      "type": "Fire",
+      "desc": "Ini Charmander",
+      "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/155.png"
+   },
+   {
+      "id": "158",
+      "name": "Totodile",
+      "type": "Water",
+      "desc": "Ini Charmander",
+      "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/158.png"
+   },
+   {
+      "id": "161",
+      "name": "Sentret",
+      "type": "Normal",
+      "desc": "Ini Charmander",
+      "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/161.png"
+   },
+   {
+      "id": "163",
+      "name": "Hoothoot",
+      "type": "Normal",
+      "desc": "Ini Charmander",
+      "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/163.png"
+   },
+   {
+      "id": "165",
+      "name": "Ledyba",
+      "type": "Bug",
+      "desc": "Ini Charmander",
+      "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/165.png"
+   },
+   {
+      "id": "167",
+      "name": "Spinarak",
+      "type": "Poison",
+      "desc": "Ini Charmander",
+      "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/167.png"
+   },
+   {
+      "id": "169",
+      "name": "Crobat",
+      "type": "Poison",
+      "desc": "Ini Charmander",
+      "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/169.png"
+   },
+   {
+      "id": "170",
+      "name": "Chinchou",
+      "type": "Water",
+      "desc": "Ini Charmander",
+      "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/170.png"
+   },
+   {
+      "id": "173",
+      "name": "Cleffa",
+      "type": "Fairy",
+      "desc": "Ini Charmander",
+      "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/173.png"
+   },
+   {
+      "id": "175",
+      "name": "Togepi",
+      "type": "Fairy",
+      "desc": "Ini Charmander",
+      "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/175.png"
+   },
+   {
+      "id": "177",
+      "name": "Natu",
+      "type": "Psychic",
+      "desc": "Ini Charmander",
+      "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/177.png"
+   },
+   {
+      "id": "179",
+      "name": "Mareep",
+      "type": "Electric",
+      "desc": "Ini Charmander",
+      "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/179.png"
+   },
+   {
+      "id": "182",
+      "name": "Bellossom",
+      "type": "Grass",
+      "desc": "Ini Charmander",
+      "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/182.png"
+   },
+   {
+      "id": "183",
+      "name": "Marill",
+      "type": "Water",
+      "desc": "Ini Charmander",
+      "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/183.png"
+   },
+   {
+      "id": "185",
+      "name": "Sudowoodo",
+      "type": "Rock",
+      "desc": "Ini Charmander",
+      "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/185.png"
+   },
+   {
+      "id": "186",
+      "name": "Politoed",
+      "type": "Water",
+      "desc": "Ini Charmander",
+      "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/186.png"
+   },
+   {
+      "id": "187",
+      "name": "Hoppip",
+      "type": "Grass",
+      "desc": "Ini Charmander",
+      "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/187.png"
+   },
+   {
+      "id": "188",
+      "name": "Skiploom",
+      "type": "Grass",
+      "desc": "Ini Charmander",
+      "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/188.png"
+   },
+   {
+      "id": "190",
+      "name": "Aipom",
+      "type": "Normal",
+      "desc": "Ini Charmander",
+      "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/190.png"
+   },
+   {
+      "id": "191",
+      "name": "Sunkern",
+      "type": "Grass",
+      "desc": "Ini Charmander",
+      "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/191.png"
+   },
+   {
+      "id": "175",
+      "name": "Togepi",
+      "type": "Fairy",
+      "desc": "Ini Charmander",
+      "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/175.png"
+   },
+   {
+      "id": "193",
+      "name": "Yanma",
+      "type": "Bug",
+      "desc": "Ini Charmander",
+      "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/193.png"
+   },
+   {
+      "id": "194",
+      "name": "Wooper",
+      "type": "Water",
+      "desc": "Ini Charmander",
+      "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/194.png"
+   },
+   {
+      "id": "133",
+      "name": "Eevee",
+      "type": "Normal",
+      "desc": "Ini Charmander",
+      "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/133.png"
+   },
+   {
+      "id": "176",
+      "name": "Togetic",
+      "type": "Fairy",
+      "desc": "Ini Charmander",
+      "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/176.png"
+   },
+   {
+      "id": "005",
+      "name": "Charmeleon",
+      "type": "Fire",
+      "desc": "Ini Charmander",
+      "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/005.png"
+   }
+]

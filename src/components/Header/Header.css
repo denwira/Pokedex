@@ -1,0 +1,30 @@
+.Header {
+  max-width: 100%;
+  background-color: #ff5151;
+  border-radius: 10px;
+  -webkit-box-shadow: 0px 5px 5px 0px rgba(0,0,0,0.5);
+  -moz-box-shadow: 0px 5px 5px 0px rgba(0,0,0,0.5);
+  box-shadow: 0px 5px 5px 0px rgba(0,0,0,0.5);
+}
+
+.Header-row {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.Header-Logo {
+  width: 20%;
+}
+
+.Header-Logo img {
+  width: 100%;
+}
+
+.Header-Search {
+  width: 80%;
+  float: right;
+}
+
+.Header-Search h1 {
+  float: right;
+}

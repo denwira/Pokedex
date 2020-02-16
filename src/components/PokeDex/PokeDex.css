@@ -1,0 +1,9 @@
+.PokeDex-Cards {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-evenly;
+}
+
+.Pokedex h2 {
+  margin-bottom: 0;
+}
