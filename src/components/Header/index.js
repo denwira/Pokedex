@@ -2,6 +2,7 @@ import React,{Component} from 'react';
 import './Header.css';
 import Menu from './Menu';
 import Image from '../../assets/pokemon-logo.png';
+import { Link } from 'react-router-dom';
 
 class Header extends Component {
   render(){
@@ -11,7 +12,9 @@ class Header extends Component {
         
         <div className="Header-row">
           <div className="Header-Logo">
+            <Link to="/">
             <img src={Image} alt='Pokedex'/>
+            </Link>
           </div>
           <div className="Header-Search">
             {/* <Menu/> */}
