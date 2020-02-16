@@ -7,7 +7,7 @@ import DetailPoke from './Pages/Homepage/DetailPoke';
 class App extends Component {
   render(){
     return(
-      <Router>
+      <Router basename="/pokedex">
         <div className="Container">
         <Header/>
         <Switch>
